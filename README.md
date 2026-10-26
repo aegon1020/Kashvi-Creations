@@ -1,5 +1,7 @@
 # Kashvi-Creations
 
+Ecommerce website
+
 A full-stack eCommerce website designed for the elegant saree brand **Kashvi Creation**, built with the MERN stack.
 This project blends performance, creativity, and seamless user experience tailored for fashion lovers.
 
